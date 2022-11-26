@@ -7,8 +7,10 @@ I am very passionate about Architecture, Distributed Systems, and Concurrency! <
 I love working on Software to positively impact people's lives! <br>
 I've been exposed to a variety of different fields throughout my degree and free time, and have developed many 
 web applications, a compiler for a subset of C, formal correctness software, embedded programming, my own OS, and even control systems to control a robotic arm! <br>
-I'm currently starting to look towards contributing to Open Source Projects!
 
+I'm currently starting to look towards contributing to Open Source Projects!
+ 
+ ** I am currently looking for Summer 2023 internship opportunities. If anything I can do interests you, hit me up!
 
 	
 ### Work Experiences:
