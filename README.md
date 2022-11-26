@@ -1,24 +1,27 @@
 
 <h1 align="center"><b>Hey! I'm Yameen Abba </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-- I am a student at the University of Waterloo studying Software Engineering! <br>
-- I am very passionate about Architecture, Distributed Systems, and Concurrency! <br>
-- I love working on Software to positively impact people's lives! <br>
-- I've been exposed to a variety of different fields throughout my degree and free  time, and have developed many 
-web applications, a compiler for a subset of C, formal correctness software, embedded programming, my own OS, and even control systems to control a robotic arm! <br>
+**I am looking for Summer 2023 internship opportunities. If anything I can do interests you, please connect with me below!**
 
-I'm currently starting to look towards contributing to Open Source Projects!
- 
-##
- **I am currently looking for Summer 2023 internship opportunities. If anything I can do interests you, please connect with me below!**
-##
-	
-### Work Experiences:
+## Experience
 - Currently @BitGo for Reliability Engineering
 - Previous SWE Intern @autonomic-ai 
 - Previous SWE Intern @ThomsonReuters
 - Previous Full Stack Developer @marketbox
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+- I am a student at the University of Waterloo studying Software Engineering! <br>
+- I am very passionate about Architecture, Distributed Systems, and Concurrency! <br>
+- I love working on Software to positively impact people's lives! <br>
+- I've been exposed to a variety of different fields throughout my degree and free  time, and have developed:
+	- many 
+web applications
+	- a compiler for a subset of C
+	- formal verification software
+	- embedded programming: an OS Kernel in C that runs on a microprocessor
+	- a control system to control a robotic arm!
+<br>
+
+I'm currently starting to look towards contributing to Open Source Projects!
 
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -58,21 +61,6 @@ I'm currently starting to look towards contributing to Open Source Projects!
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
 
 <!---
 y2abba/y2abba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
