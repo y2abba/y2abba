@@ -2,10 +2,10 @@
 <h1 align="center"><b>Hey! I'm Yameen Abba </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-I am a student at the University of Waterloo studying Software Engineering! <br>
-I am very passionate about Architecture, Distributed Systems, and Concurrency! <br>
-I love working on Software to positively impact people's lives! <br>
-I've been exposed to a variety of different fields throughout my degree and free time, and have developed many 
+- I am a student at the University of Waterloo studying Software Engineering! <br>
+- I am very passionate about Architecture, Distributed Systems, and Concurrency! <br>
+- I love working on Software to positively impact people's lives! <br>
+- I've been exposed to a variety of different fields throughout my degree and free  time, and have developed many 
 web applications, a compiler for a subset of C, formal correctness software, embedded programming, my own OS, and even control systems to control a robotic arm! <br>
 
 I'm currently starting to look towards contributing to Open Source Projects!
