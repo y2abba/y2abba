@@ -6,7 +6,7 @@ I am a student at the University of Waterloo studying Software Engineering! <br>
 I am very passionate about Architecture, Distributed Systems, and Concurrency! <br>
 I love working on Software to positively impact people's lives! <br>
 I've been exposed to a variety of different fields throughout my degree and free time, and have developed many 
-web applications, a compiler for subset of C++, formal correctness software, embedded programming, my own OS, and even control systems to control a robotic arm! <br>
+web applications, a compiler for a subset of C, formal correctness software, embedded programming, my own OS, and even control systems to control a robotic arm! <br>
 I've programmed in a variety of languages, but the most interesting is a concurrent C based language: [μC++](https://github.com/pabuhr/uCPP).
 <br>
 Starting to look towards contributing to Open Source Projects!
