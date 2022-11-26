@@ -10,8 +10,9 @@ web applications, a compiler for a subset of C, formal correctness software, emb
 
 I'm currently starting to look towards contributing to Open Source Projects!
  
- ** I am currently looking for Summer 2023 internship opportunities. If anything I can do interests you, hit me up!
-
+##
+ **I am currently looking for Summer 2023 internship opportunities. If anything I can do interests you, please connect with me below!**
+##
 	
 ### Work Experiences:
 - Currently @BitGo for Reliability Engineering
