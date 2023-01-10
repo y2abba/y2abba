@@ -1,8 +1,6 @@
 
 <h1 align="center"><b>Hey! I'm Yameen Abba </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**I am looking for Summer 2023 internship opportunities. If anything I can do interests you, please connect with me below!**
-
 ## Experience
 - Currently @BitGo for Reliability Engineering
 - Previous SWE Intern @autonomic-ai 
