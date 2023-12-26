@@ -2,7 +2,8 @@
 <h1 align="center"><b>Hey! I'm Yameen Abba </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## Experience
-<!-- - Currently @BitGo for Reliability Engineering -->
+- Software Developer Intern @ Intuit
+- Previous DevOps Intern @BitGo
 - Previous SWE Intern @autonomic-ai 
 - Previous SWE Intern @ThomsonReuters
 - Previous Full Stack Developer @marketbox
